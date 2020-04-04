@@ -10,11 +10,22 @@
         //create an array of phrases
         
         this.phrases=[
-        new Phrase("How is she cutting"),
-        new Phrase('Ara sure look'),
-        new Phrase('I will do yeah'),
-        new Phrase('What is the story'),
-        new Phrase('Goodluck')
+        new Phrase("Get a friend loser"),
+        new Phrase('Today smoking is gonna save lives'),
+        new Phrase('You cheated on me when I specifically asked you not to'),
+        new Phrase('Hi I am date Mike nice to meet you how do you like your eggs in the morning'),
+        new Phrase('Im an early bird and im a night owl so im wise and i have worms'),
+        new Phrase('Growing up I performed my own circumcision'),
+        new Phrase('I mean Im not a slut but who knows'),
+        new Phrase('Mistletoe is not an excuse for sexual assault'),
+        new Phrase('make friend first make sales second make love third in no particular order'),
+        new Phrase('I dont hate it i just dont like it at all and its terrible'),
+        new Phrase('tell him to call me asap as possible'),
+        new Phrase('Dwight you ignorant slut'),
+        new Phrase('I love inside jokes i would love to be part of one someday'),
+        new Phrase('Jim told me you could buy gaydar online'),
+
+
         ];
         
     }
