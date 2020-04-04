@@ -63,7 +63,7 @@
     for(let i=0; i<heart.length; i++){
         heart[0].setAttribute('src', 'images/lostHeart.png');
     }
-    if(this.missed === 5){
+    if(this.missed === 3){
         this.gameOver(false);
     }
 };
