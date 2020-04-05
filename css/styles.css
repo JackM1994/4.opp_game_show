@@ -173,6 +173,7 @@ button {
   left: 0;
   right: 0;
   border-radius: 5px;
+  transition: all .3s ease-in;
 }
 
 .title {
